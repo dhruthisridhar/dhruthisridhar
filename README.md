@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruthi Sridhar Murthy</h1>
+<h1 align="center">Hi 👋, I'm Dhruthi</h1>
 <h3 align="center">Full Stack Software Engineer | Cloud & Distributed Systems | GenAI Explorer</h3>
 
 <p align="center">
